@@ -1,7 +1,7 @@
 # Android-Tic-Tac-Toe-Simple
 
 ## Demo
-Demo app is available on the [Play Store](http://example.net/)
+Demo app is available on the [Play Store](https://play.google.com/store/apps/details?id=it.k4rm3l0.tris)
 
 ## Info
 Simple "Tic Tac Toe" for Android. 
