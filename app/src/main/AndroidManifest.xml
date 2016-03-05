@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="tris.k4rm3l0.it.tris">
+    package="it.k4rm3l0.tris">
 
     <application
         android:allowBackup="true"
