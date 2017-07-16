@@ -5,7 +5,7 @@ Demo app is available on the [Play Store](https://play.google.com/store/apps/det
 
 ## Info
 Simple "Tic Tac Toe" for Android. 
-This project was an hour and half of funny with my 8yo nephew and my first attempt in teaching Android Programming to a kid.
+This project was an hour and half of fun with my 8yo nephew and my first Android Programming teaching experience to a kid.
 
 ## License
 The MIT License (MIT)
